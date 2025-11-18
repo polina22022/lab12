@@ -13,17 +13,17 @@ int main() {
     float f1, f2;
     double d1, d2;
     signed int si1, si2;
-    printf("char: %ld αΰις\n", (char*)(&c2) - (char*)(&c1));
-    printf("short int: %ld αΰις\n", (short*)(&s2) - (short*)(&s1));
-    printf("unsigned short int: %ld αΰις\n", (unsigned short*)(&us2) - (unsigned short*)(&us1));
-    printf("int: %ld αΰις\n", (int*)(&i2) - (int*)(&i1));
-    printf("unsigned char: %ld αΰις\n", (unsigned char*)(&uc2) - (unsigned char*)(&uc1));
-    printf("wchar_t: %ld αΰις\n", (wchar_t*)(&wc2) - (wchar_t*)(&wc1));
-    printf("long long int: %ld αΰις\n", (long long*)(&ll2) - (long long*)(&ll1));
-    printf("size_t: %ld αΰις\n", (size_t*)(&st2) - (size_t*)(&st1));
-    printf("float: %ld αΰις\n", (float*)(&f2) - (float*)(&f1));
-    printf("double: %ld αΰις\n", (double*)(&d2) - (double*)(&d1));
-    printf("signed int: %ld αΰις\n", (signed int*)(&si2) - (signed int*)(&si1));
+    printf("char: %ld Π±Π°ΠΉΡ‚\n", (char*)(&c2) - (char*)(&c1));
+    printf("short int: %ld Π±Π°ΠΉΡ‚\n", (short*)(&s2) - (short*)(&s1));
+    printf("unsigned short int: %ld Π±Π°ΠΉΡ‚\n", (unsigned short*)(&us2) - (unsigned short*)(&us1));
+    printf("int: %ld Π±Π°ΠΉΡ‚\n", (int*)(&i2) - (int*)(&i1));
+    printf("unsigned char: %ld Π±Π°ΠΉΡ‚\n", (unsigned char*)(&uc2) - (unsigned char*)(&uc1));
+    printf("wchar_t: %ld Π±Π°ΠΉΡ‚\n", (wchar_t*)(&wc2) - (wchar_t*)(&wc1));
+    printf("long long int: %ld Π±Π°ΠΉΡ‚\n", (long long*)(&ll2) - (long long*)(&ll1));
+    printf("size_t: %ld Π±Π°ΠΉΡ‚\n", (size_t*)(&st2) - (size_t*)(&st1));
+    printf("float: %ld Π±Π°ΠΉΡ‚\n", (float*)(&f2) - (float*)(&f1));
+    printf("double: %ld Π±Π°ΠΉΡ‚\n", (double*)(&d2) - (double*)(&d1));
+    printf("signed int: %ld Π±Π°ΠΉΡ‚\n", (signed int*)(&si2) - (signed int*)(&si1));
 
     return 0;
 }
