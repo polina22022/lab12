@@ -34,8 +34,9 @@
    - Вычислить разницу между этими указателями.
 4. **Конец**
 ### Блок-схема
-<img width="471" height="539" alt="image" src="https://github.com/user-attachments/assets/79391160-7b3c-49b4-b6bb-f0429d9cd31f" />
-https://github.com/polina22022/lab10/blob/master/lab10.drawio
+<img width="134" height="431" alt="image" src="https://github.com/user-attachments/assets/fb3bf16d-3a70-437f-b4bc-ca52cf6157b3" />
+
+https://github.com/polina22022/lab12/blob/master/lab12.drawio
 
 
 
